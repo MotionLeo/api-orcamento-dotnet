@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1rZdP8g2QMGSyzx8zl2bSh7damBRhhN7CGBw9LKN+tQ=",
+  "Source": "api-orcamento-dotnet",
+  "BasePath": "_content/api-orcamento-dotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
